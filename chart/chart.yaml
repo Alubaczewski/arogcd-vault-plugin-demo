@@ -1,0 +1,5 @@
+apiVersion: v2
+appVersion: "1.0"
+description: GitOps ArgoCD Infra
+name: apps
+version: 0.1.0
